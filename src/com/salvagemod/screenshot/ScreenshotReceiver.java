@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.screenshot;
+package com.salvagemod.screenshot;
 
 import android.content.Context;
 import android.content.Intent;

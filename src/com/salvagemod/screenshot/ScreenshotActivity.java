@@ -16,7 +16,7 @@
 ** limitations under the License.
 */
 
-package com.cyanogenmod.screenshot;
+package com.salvagemod.screenshot;
 
 import java.io.File;
 import java.io.FileInputStream;

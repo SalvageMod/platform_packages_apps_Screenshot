@@ -16,7 +16,7 @@
 ** limitations under the License.
 */
 
-#define LOG_TAG "CM Screenshot"
+#define LOG_TAG "Screenshot"
 
 #include <stdio.h>
 #include <stdlib.h>
